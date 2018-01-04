@@ -1,0 +1,105 @@
+db.books.insert([{
+	"read": false,
+	"title": "War and Peace",
+	"author": "Lev Tolstoy",
+	"genre": "Documentario"
+}, {
+	"read": false,
+	"title": "The Fellowship of the Ring",
+	"author": " J.R.R. Tolkien ",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Harry Potter",
+	"author": "J. K. Rowling",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Os Miseráveis",
+	"author": "Victor Hugo",
+	"genre": "Drama"
+
+}, {
+	"read": false,
+	"title": "The Lightning Thief",
+	"author": "Rick Riordan",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Sophies World : The Greek Philosophers",
+	"author": "Jostein Gaarder",
+	"genre": "Documentario"
+
+}, {
+	"read": false,
+	"title": "War and Peace",
+	"author": "Lev Tolstoy",
+	"genre": "Documentario"
+
+}, {
+	"read": false,
+	"title": "The Fellowship of the Ring",
+	"author": " J.R.R. Tolkien ",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Harry Potter",
+	"author": "J. K. Rowling",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Os Miseráveis",
+	"author": "Victor Hugo",
+	"genre": "Drama"
+}, {
+	"read": false,
+	"title": "The Lightning Thief",
+	"author": "Rick Riordan",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Sophies World : The Greek Philosophers",
+	"author": "Jostein Gaarder",
+	"genre": "Documentario"
+
+}, {
+	"read": false,
+	"title": "War and Peace",
+	"author": "Lev Tolstoy",
+	"genre": "Documentario"
+
+}, {
+	"read": false,
+	"title": "The Fellowship of the Ring",
+	"author": " J.R.R. Tolkien ",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Harry Potter",
+	"author": "J. K. Rowling",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Os Miseráveis",
+	"author": "Victor Hugo",
+}, {
+	"read": false,
+	"title": "The Lightning Thief",
+	"author": "Rick Riordan",
+	"genre": "Fantasia"
+
+}, {
+	"read": false,
+	"title": "Sophies World : The Greek Philosophers",
+	"author": "Jostein Gaarder",
+	"genre": "Documentario"
+
+}])
